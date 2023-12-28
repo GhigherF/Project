@@ -1,0 +1,1516 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="csrf-token" content="vvLaT6DchRYun5Jskm6YgsGxccJ3YMsB6ZxA1J30">
+    <title>Курсы валют - ВСЕ БАНКИ БЕЛАРУСИ. USD,RUR,BYR,EUR, курс ДОЛЛАРА, курс ЕВРО | select.by</title>
+    <meta name="robots" content="index, follow">
+    <meta name="description" content="курсы валют, курсы валют в банках беларуси, курс доллара, курс евро, курс российского рубля, обмен валюты, курс валюты">
+    <meta name="keywords" content="курсы валют, курс доллара, курс евро, курс рубля банки обмен валют">
+    <link rel="canonical" href="/kurs"/>
+    
+    <link href="/css/select.by.css" rel="stylesheet"/>
+    <link href="/css/oldtablesorter.css" rel="stylesheet"/>
+    <meta property="og:title" content="Курсы валют - ВСЕ БАНКИ БЕЛАРУСИ. USD,RUR,BYR,EUR, курс ДОЛЛАРА, курс ЕВРО | select.by"/>
+    <meta property="og:url" content="/kurs/" />
+    
+    <meta property="og:site_name" content="Select.by" />
+    <meta property="og:description" content="курсы валют, курсы валют в банках беларуси, курс доллара, курс евро, курс российского рубля, обмен валюты, курс валюты" />
+    <meta property="og:locale" content="ru-RU" />  
+    <meta name="verify-v1" content="n6uZkVuJltlDf1z2XF7tCrHO4xU5Z8tOy/NLsYRrS1A=">  
+    
+      
+    <style>
+        @media (max-width: 1000px) {
+            .show-if-width-more-1000px {
+                display:none;
+            }
+        }
+    </style>
+  
+</head>
+<body >
+
+
+
+    <header class="shadow mb-3 bg-primary">
+        <div class="bg-white">
+            <div class="container-fluid pl-3 py-2">
+                <a class="" href="/">
+                    <img src="https://m.select.by/images/m-logo.png" width="200" class=""
+                         alt="ВСЕ БАНКИ БЕЛАРУСИ | Кредиты. Вклады. Курсы валют. Банки Минска"></a>
+            </div>
+        </div>
+        <div class="container-fluid px-0">
+            <div class="row no-gutters flex-column">
+                <nav class="navbar navbar-dark navbar-expand py-0 px-2">
+                    <ul class="navbar-nav font-weight-500">
+                        <li class="nav-item">
+                            <a class="nav-link" href="/banki">Банки Беларуси</a>
+                        </li>
+                        <li class="nav-item active">
+                            <a class="nav-link" href="/kurs/">Курсы валют</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/kredity">Кредиты</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/vklady">Вклады</a>
+                        </li>                      
+                        <li class="nav-item">
+                            <a class="nav-link" href="/news">Новости</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/lizing">Лизинг</a>
+                        </li>
+                    </ul>                 
+                </nav>
+            </div>
+        </div>
+    </header>
+
+
+
+
+    <div class="container-fluid px-2">
+        <aside class="row no-gutters mb-3">
+            <section class="col mx-2 bg-white shadow px-3 pt-3">
+                <div class="">
+		<h2>Новости</h2>
+    <p><a href="/news/na-torgakh-28-dekabrya-dollar-podeshevel-pochti-v-22709">На торгах 28 декабря доллар подешевел почти в 20 раз сильнее, чем днём ранее</a></p>
+    <p><a href="/news/obvalom-dollara-otkrylis-torgi-28-dekabrya-22708">Обвалом доллара открылись торги 28 декабря</a></p>
+    <p><a href="/news/belorusskii-rubl-ukrepilsya-k-dollaru-i-evro-na-22706">Белорусский рубль укрепился к доллару и евро на торгах 27 декабря</a></p>
+    <p><a href="/news/dollar-utrom-27-dekabrya-opyat-desheveet-k-22705">Доллар утром 27 декабря опять дешевеет к белорусскому рублю</a></p>
+	</div>
+	            </section>
+            <section class="col mx-2 bg-white shadow p-3">
+                <h2 class="" itemprop="name">Лучшие курсы валют в банках на сегодня</h2>
+                <div itemprop="mainEntity" itemscope itemtype="http://schema.org/ItemList">
+                    <meta itemprop="name" content="Лучшие курсы валют в Минске на сегодня"/>
+                    <table class="table table-sm table-borderless mb-1">
+                        <thead>
+                        <tr class="text-center">
+                            <th></th>
+                            <th></th>
+                            <th class="font-weight-500">Покупка</th>
+                            <th class="font-weight-500">Продажа</th>
+                            <th class="font-weight-500">НБ РБ</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                                                                                    <tr class="text-center h4">
+                                    <td class="text-right px-0 text-muted">1</td>
+                                    <td class="text-left">
+                                        <a href="/minsk/kurs-dollara">Доллар США</a>
+                                    </td>
+                                    <td itemprop="itemListElement" itemscope
+                                        itemtype="http://schema.org/ExchangeRateSpecification">
+                                        <meta itemprop="currency" content="USD"/>
+                                        <span itemprop="currentExchangeRate" itemscope
+                                              itemtype="http://schema.org/UnitPriceSpecification">
+                    <span itemprop="price">3,1790</span>
+                    <meta itemprop="priceCurrency" content="BYN"/>
+                    <meta itemprop="priceType"
+                          content="Лучший курс покупки 💲 доллара в Минске сегодня"/>
+                </span>
+                                    </td>
+                                    <td itemprop="itemListElement" itemscope
+                                        itemtype="http://schema.org/ExchangeRateSpecification">
+                                        <meta itemprop="currency" content="USD"/>
+                                        <span itemprop="currentExchangeRate" itemscope
+                                              itemtype="http://schema.org/UnitPriceSpecification">
+                    <span itemprop="price">3,1850</span>
+                    <meta itemprop="priceCurrency" content="BYN"/>
+                    <meta itemprop="priceType"
+                          content="Лучший курс продажи 💲 доллара в Минске сегодня"/>
+                </span>
+                                    </td>
+                                    <td>3,1953</td>
+                                </tr>
+                                                                                                                <tr class="text-center h4">
+                                    <td class="text-right px-0 text-muted">1</td>
+                                    <td class="text-left">
+                                        <a href="/minsk/kurs-evro">Евро</a>
+                                    </td>
+                                    <td itemprop="itemListElement" itemscope
+                                        itemtype="http://schema.org/ExchangeRateSpecification">
+                                        <meta itemprop="currency" content="EUR"/>
+                                        <span itemprop="currentExchangeRate" itemscope
+                                              itemtype="http://schema.org/UnitPriceSpecification">
+                    <span itemprop="price">3,5030</span>
+                    <meta itemprop="priceCurrency" content="BYN"/>
+                    <meta itemprop="priceType"
+                          content="Лучший курс покупки евро в Минске сегодня"/>
+                </span>
+                                    </td>
+                                    <td itemprop="itemListElement" itemscope
+                                        itemtype="http://schema.org/ExchangeRateSpecification">
+                                        <meta itemprop="currency" content="EUR"/>
+                                        <span itemprop="currentExchangeRate" itemscope
+                                              itemtype="http://schema.org/UnitPriceSpecification">
+                    <span itemprop="price">3,5180</span>
+                    <meta itemprop="priceCurrency" content="BYN"/>
+                    <meta itemprop="priceType"
+                          content="Лучший курс продажи евро в Минске сегодня"/>
+                </span>
+                                    </td>
+                                    <td>3,5319</td>
+                                </tr>
+                                                                                                                <tr class="text-center h4">
+                                    <td class="text-right px-0 text-muted">100</td>
+                                    <td class="text-left">
+                                        <a href="/minsk/kurs-rublya">Российских рублей</a>
+                                    </td>
+                                    <td itemprop="itemListElement" itemscope
+                                        itemtype="http://schema.org/ExchangeRateSpecification">
+                                        <meta itemprop="currency" content="RUB"/>
+                                        <span itemprop="currentExchangeRate" itemscope
+                                              itemtype="http://schema.org/UnitPriceSpecification">
+                    <span itemprop="price">3,4820</span>
+                    <meta itemprop="priceCurrency" content="BYN"/>
+                    <meta itemprop="priceType"
+                          content="Лучший курс покупки российского рубля в Минске сегодня"/>
+                </span>
+                                    </td>
+                                    <td itemprop="itemListElement" itemscope
+                                        itemtype="http://schema.org/ExchangeRateSpecification">
+                                        <meta itemprop="currency" content="RUB"/>
+                                        <span itemprop="currentExchangeRate" itemscope
+                                              itemtype="http://schema.org/UnitPriceSpecification">
+                    <span itemprop="price">3,4850</span>
+                    <meta itemprop="priceCurrency" content="BYN"/>
+                    <meta itemprop="priceType"
+                          content="Лучший курс продажи российского рубля в Минске сегодня"/>
+                </span>
+                                    </td>
+                                    <td>3,4831</td>
+                                </tr>
+                                                                                                                <tr class="text-center h4">
+                                    <td class="text-right px-0 text-muted">10</td>
+                                    <td class="text-left">
+                                        <a href="/minsk/kurs-zlotogo">Злотых</a>
+                                    </td>
+                                    <td itemprop="itemListElement" itemscope
+                                        itemtype="http://schema.org/ExchangeRateSpecification">
+                                        <meta itemprop="currency" content="PLN"/>
+                                        <span itemprop="currentExchangeRate" itemscope
+                                              itemtype="http://schema.org/UnitPriceSpecification">
+                    <span itemprop="price">7,8500</span>
+                    <meta itemprop="priceCurrency" content="BYN"/>
+                    <meta itemprop="priceType"
+                          content="Лучший курс покупки злотого в Минске сегодня"/>
+                </span>
+                                    </td>
+                                    <td itemprop="itemListElement" itemscope
+                                        itemtype="http://schema.org/ExchangeRateSpecification">
+                                        <meta itemprop="currency" content="PLN"/>
+                                        <span itemprop="currentExchangeRate" itemscope
+                                              itemtype="http://schema.org/UnitPriceSpecification">
+                    <span itemprop="price">8,0000</span>
+                    <meta itemprop="priceCurrency" content="BYN"/>
+                    <meta itemprop="priceType"
+                          content="Лучший курс продажи злотого в Минске сегодня"/>
+                </span>
+                                    </td>
+                                    <td>8,1559</td>
+                                </tr>
+                                                                                                                <tr class="text-center h4">
+                                    <td class="text-right px-0 text-muted">100</td>
+                                    <td class="text-left">
+                                        <a href="/minsk/kurs-grivny">Гривен</a>
+                                    </td>
+                                    <td itemprop="itemListElement" itemscope
+                                        itemtype="http://schema.org/ExchangeRateSpecification">
+                                        <meta itemprop="currency" content="UAH"/>
+                                        <span itemprop="currentExchangeRate" itemscope
+                                              itemtype="http://schema.org/UnitPriceSpecification">
+                    <span itemprop="price">6,1000</span>
+                    <meta itemprop="priceCurrency" content="BYN"/>
+                    <meta itemprop="priceType"
+                          content="Лучший курс покупки гривны в Минске сегодня"/>
+                </span>
+                                    </td>
+                                    <td itemprop="itemListElement" itemscope
+                                        itemtype="http://schema.org/ExchangeRateSpecification">
+                                        <meta itemprop="currency" content="UAH"/>
+                                        <span itemprop="currentExchangeRate" itemscope
+                                              itemtype="http://schema.org/UnitPriceSpecification">
+                    <span itemprop="price">5,0000</span>
+                    <meta itemprop="priceCurrency" content="BYN"/>
+                    <meta itemprop="priceType"
+                          content="Лучший курс продажи гривны в Минске сегодня"/>
+                </span>
+                                    </td>
+                                    <td>8,5084</td>
+                                </tr>
+                                                                            </tbody>
+                    </table>
+                </div>
+            </section>
+        </aside>
+      
+        <div class="row no-gutters">
+            <aside class="col mx-2 min-height-200px bg-white shadow mb-3">
+                <div class="">
+		<div id="adfox_header_100x200_1569496250004" align="center" class="mx-auto"></div>	</div>
+	            </aside>
+        </div>
+
+        <div class="row no-gutters">
+            <aside class="flex-width-240px mx-2">
+                <div class="mx-auto shadow bg-white mb-3 min-height-200px text-center sticky-top">
+                  <div class="">
+		<!--<div align="center" style="margin:auto; width:240px;">-->
+<div align="center" class="mx-auto">
+<div id="adfox_240x400_15694963255"></div></div>	</div>
+	                </div>
+            </aside>            
+            <main class="col mx-2 table-responsive">
+                <article class="bg-white shadow mb-3">
+                <a class="float-right font-weight-bold pr-3 pt-3" href="/kross-kurs">Кросс-курсы</a>
+                <nav class="ml-3 pt-2 bg-transparent" aria-label="breadcrumb">
+                    <ol class="breadcrumb mb-0 bg-transparent py-2 pl-1" itemscope
+                        itemtype="https://schema.org/BreadcrumbList">
+                        <li class="breadcrumb-item" itemprop="itemListElement" itemscope
+                          itemtype="https://schema.org/ListItem">
+                            <a itemprop="item" href="/"><span class="d-none" itemprop="name">Главная</span><i class="icon icon-home"></i></a>
+                            <meta itemprop="position" content="1"/>
+                        </li>
+                        <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                            <a itemprop="item" href="/minsk"><span itemprop="name">Минск</span></a>
+                            <meta itemprop="position" content="2"/>
+                        </li>
+                        <li class="breadcrumb-item active" aria-current="page">Курсы валют в банках</li>
+                    </ol>
+                </nav>
+                                                    <h1 class="px-3 m-0" itemprop="name">Курсы валют. Курс доллара. Курс евро. Курс рубля.</h1>
+
+                    <ul class="nav">
+                                            </ul>
+                  
+                    <select class="curr-select float-right mb-2"
+                            onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);"
+                            id="select_cities" onfocus="upd_city_list();">
+                        <option value="">Выбрать город</option>
+                        <option></option>
+                        <option></option>
+                        <option></option>
+                        <option></option>
+                        <option></option>
+                        <option></option>
+                        <option></option>
+                        <option></option>
+                        <option></option>
+                        <option></option>
+                    </select>
+                  
+                    <select class="curr-select float-right mb-2"
+                            onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+                      <option value="">Выбрать валюту</option>
+                                            <option value="/minsk/kurs-dollara">USD - Доллар</option>
+                                            <option value="/minsk/kurs-evro">EUR - Евро</option>
+                                            <option value="/minsk/kurs-rublya">RUB - Российский рубль</option>
+                                            <option value="/minsk/kurs-zlotogo">PLN - Злотый</option>
+                                            <option value="/minsk/kurs-kanadskogo-dollara">CAD - Канадский доллар</option>
+                                            <option value="/minsk/kurs-shveycarskogo-franka">CHF - Швейцарский франк</option>
+                                            <option value="/minsk/kurs-kitayskogo-yuanya">CNY - Китайский юань</option>
+                                            <option value="/minsk/kurs-cheshskoy-krony">CZK - Чешская крона</option>
+                                            <option value="/minsk/kurs-funta-sterlingov">GBP - Фунт стерлингов</option>
+                                            <option value="/minsk/kurs-gruzinskogo-lari">GEL - Грузинский лари</option>
+                                            <option value="/minsk/kurs-ieny">JPY - Иена</option>
+                                            <option value="/minsk/kurs-tenge">KZT - Тенге</option>
+                                            <option value="/minsk/kurs-shvedskoy-krony">SEK - Шведская крона</option>
+                                            <option value="/minsk/kurs-tureckoy-liry">TRY - Турецкая лира</option>
+                                            <option value="/minsk/kurs-grivny">UAH - Гривна</option>
+                                          </select>
+                  
+                    <section class="table-responsive">
+                        <table class="table table-hover table-sm courses-main">
+                            <caption class="top"><h2 class="py-3 pl-3 m-0">Курсы валют в Беларуси на
+                                    сегодня</h2></caption>
+                            <thead class="table-head">
+                            <tr class="head-sort_i_first">
+                                <th class="sorting h2 bank" rowspan="2">Банк</th>
+                                <th class="sorter-false text-center h2 right-border" colspan="2"><a
+                                            href="/minsk/kurs-dollara">USD</a>
+                                </th>
+                                <th class="sorter-false text-center h2 right-border" colspan="2"><a
+                                            href="/minsk/kurs-evro">EUR</a>
+                                </th>
+                                <th class="sorter-false text-center h2" colspan="2"><a
+                                            href="/minsk/kurs-rublya"><small>100 </small>RUB</a>
+                                </th>
+                            </tr>
+                            <tr class="head-sort_i">
+                                <th class="sortInitialOrder-desc sorting string-bottom">Покупка</th>
+                                <th class="sorting string-bottom right-border">Продажа</th>
+                                <th class="sortInitialOrder-desc sorting string-bottom">Покупка</th>
+                                <th class="sorting string-bottom right-border">Продажа</th>
+                                <th class="sortInitialOrder-desc sorting string-bottom">Покупка</th>
+                                <th class="sorting string-bottom">Продажа</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                                                                                                                                <tr class="static tablesorter-hasChildRow" data-row-index=0>
+                                        <td>
+                                                                                                                                        <a class="pl-1" href="https://ads.adfox.ru/271793/goLink?p1=crzko&p2=ggxq&p5=ktazi&pr=23" target="_blank"><img src="/uploads/static/alfabank-insync.svg" width="24" height="24" alt="insync"> InSync by Alfa-Bank</a>
+                                                                                    </td>
+                                        <td>3,1610</td>
+                                        <td class="right-border">3,2190</td>
+                                        <td>3,4510</td>
+                                        <td class="right-border">3,5540</td>
+                                        <td>3,4530</td>
+                                        <td>3,5340</td>
+                                    </tr>
+                                                                                                        <tr class="static tablesorter-hasChildRow" data-row-index=1>
+                                        <td>
+                                                                                                                                        <a class="pl-2" href="https://ads.adfox.ru/271793/goLink?p1=cdqns&p2=ggxq&p5=hmnhd&pr=80" target="_blank"><img src="/img/banners/mtbank-nembo-2022-04-05.svg" height="14" width="87" alt="NEMBO"> онлайн-обменник</a>
+                                                                                    </td>
+                                        <td>3,1750</td>
+                                        <td class="right-border">3,1900</td>
+                                        <td>3,4900</td>
+                                        <td class="right-border">3,5350</td>
+                                        <td>3,4500</td>
+                                        <td>3,5100</td>
+                                    </tr>
+                                                                                                        <tr class="static tablesorter-hasChildRow" data-row-index=2>
+                                        <td>
+                                                                                                                                        <a class="pl-2" href="https://ads.adfox.ru/271793/goLink?p1=cildu&p2=ggxq&p5=hkvya&pr=60" target="_blank"><img src="/img/banners/bnb-logo-str.svg" width="183" height="20" alt="BNB-Bank"></a>
+                                                                                    </td>
+                                        <td>3,1718</td>
+                                        <td class="right-border">3,1977</td>
+                                        <td>3,4952</td>
+                                        <td class="right-border">3,5488</td>
+                                        <td>3,4811</td>
+                                        <td>3,5099</td>
+                                    </tr>
+                                                                                                        <tr class="static tablesorter-hasChildRow" data-row-index=3>
+                                        <td>
+                                                                                                                                        <a class="pl-2" href="https://www.belveb.by/services/superkurs/?utm_source=select&utm_medium=cpm&utm_campaign=RB_Rates_super&utm_content=row&utm_term=website" target="_blank"><img src="/uploads/static/bveb_up.svg" width="26" height="20" alt="Up «Суперкурс»">Up «Суперкурс»</a>
+                                                                                    </td>
+                                        <td>3,1620</td>
+                                        <td class="right-border">3,1850</td>
+                                        <td>3,4800</td>
+                                        <td class="right-border">3,5500</td>
+                                        <td>&mdash;</td>
+                                        <td>&mdash;</td>
+                                    </tr>
+                                                                                                        <tr class="static tablesorter-hasChildRow" data-row-index=4>
+                                        <td>
+                                                                                                                                        <a class="pl-1" href="https://www.paritetbank.by/private/rates/?utm_source=select.by&utm_medium=statics&utm_campaign=kurs" target="_blank"><img src="/uploads/static/paritet_str.svg" width="16" height="26" alt="Paritetbank">Paritetbank</a>
+                                                                                    </td>
+                                        <td>3,1780</td>
+                                        <td class="right-border">3,1950</td>
+                                        <td>3,4830</td>
+                                        <td class="right-border">3,5290</td>
+                                        <td>3,4450</td>
+                                        <td>3,4890</td>
+                                    </tr>
+                                                                                                        <tr class=" tablesorter-hasChildRow" >
+                                        <td>
+                                                                                                                                        <a href="#" class="expand"><span
+                                                            class="icon icon-right-dir"></span>Альфа-Банк
+                                                </a>
+                                                                                    </td>
+                                        <td>3,1790</td>
+                                        <td class="right-border">3,1870</td>
+                                        <td>3,5020</td>
+                                        <td class="right-border">3,5250</td>
+                                        <td>3,4810</td>
+                                        <td>3,4880</td>
+                                    </tr>
+                                     
+                                    <tr class="tablesorter-childRow">
+                                        <td colspan="9" class="slide" id="20">
+                                            <table class="table table-sm table-hover table-nested">
+                                                <thead class="table-head">
+                                                <tr class="head-sort_i_first">
+                                                    <th class="sorting bank pl-4" rowspan="2"><span
+                                                                class="font-weight-400">отделения Альфа-Банка</span>
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0 right-border"
+                                                        colspan="2">
+                                                        USD
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0 right-border"
+                                                        colspan="2">
+                                                        EUR
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0" colspan="2">
+                                                        <small>100 </small>RUB
+                                                    </th>
+                                                </tr>
+                                                <tr class="head-sort_i">
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting right-border">Продажа</th>
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting right-border">Продажа</th>
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting">Продажа</th>
+                                                </tr>
+                                                </thead>
+                                                <tbody>
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                                                                                        <tr class=" tablesorter-hasChildRow" >
+                                        <td>
+                                                                                                                                        <a href="#" class="expand"><span
+                                                            class="icon icon-right-dir"></span>РРБ-Банк
+                                                </a>
+                                                                                    </td>
+                                        <td>3,1780</td>
+                                        <td class="right-border">3,1880</td>
+                                        <td>3,4950</td>
+                                        <td class="right-border">3,5250</td>
+                                        <td>3,4400</td>
+                                        <td>3,4900</td>
+                                    </tr>
+                                     
+                                    <tr class="tablesorter-childRow">
+                                        <td colspan="9" class="slide" id="23">
+                                            <table class="table table-sm table-hover table-nested">
+                                                <thead class="table-head">
+                                                <tr class="head-sort_i_first">
+                                                    <th class="sorting bank pl-4" rowspan="2"><span
+                                                                class="font-weight-400">отделения РРБ-Банка</span>
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0 right-border"
+                                                        colspan="2">
+                                                        USD
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0 right-border"
+                                                        colspan="2">
+                                                        EUR
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0" colspan="2">
+                                                        <small>100 </small>RUB
+                                                    </th>
+                                                </tr>
+                                                <tr class="head-sort_i">
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting right-border">Продажа</th>
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting right-border">Продажа</th>
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting">Продажа</th>
+                                                </tr>
+                                                </thead>
+                                                <tbody>
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                                                                                        <tr class=" tablesorter-hasChildRow" >
+                                        <td>
+                                                                                                                                        <a href="#" class="expand"><span
+                                                            class="icon icon-right-dir"></span>Паритетбанк
+                                                </a>
+                                                                                    </td>
+                                        <td>3,1780</td>
+                                        <td class="right-border">3,1950</td>
+                                        <td>3,4830</td>
+                                        <td class="right-border">3,5290</td>
+                                        <td>3,4450</td>
+                                        <td>3,4890</td>
+                                    </tr>
+                                     
+                                    <tr class="tablesorter-childRow">
+                                        <td colspan="9" class="slide" id="9">
+                                            <table class="table table-sm table-hover table-nested">
+                                                <thead class="table-head">
+                                                <tr class="head-sort_i_first">
+                                                    <th class="sorting bank pl-4" rowspan="2"><span
+                                                                class="font-weight-400">отделения Паритетбанка</span>
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0 right-border"
+                                                        colspan="2">
+                                                        USD
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0 right-border"
+                                                        colspan="2">
+                                                        EUR
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0" colspan="2">
+                                                        <small>100 </small>RUB
+                                                    </th>
+                                                </tr>
+                                                <tr class="head-sort_i">
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting right-border">Продажа</th>
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting right-border">Продажа</th>
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting">Продажа</th>
+                                                </tr>
+                                                </thead>
+                                                <tbody>
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                                                                                        <tr class=" tablesorter-hasChildRow" >
+                                        <td>
+                                                                                                                                        <a href="#" class="expand"><span
+                                                            class="icon icon-right-dir"></span>Цептер Банк
+                                                </a>
+                                                                                    </td>
+                                        <td>3,1760</td>
+                                        <td class="right-border">3,1960</td>
+                                        <td>3,4720</td>
+                                        <td class="right-border">3,5320</td>
+                                        <td>3,4300</td>
+                                        <td>3,4900</td>
+                                    </tr>
+                                     
+                                    <tr class="tablesorter-childRow">
+                                        <td colspan="9" class="slide" id="32">
+                                            <table class="table table-sm table-hover table-nested">
+                                                <thead class="table-head">
+                                                <tr class="head-sort_i_first">
+                                                    <th class="sorting bank pl-4" rowspan="2"><span
+                                                                class="font-weight-400">отделения Цептер Банка</span>
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0 right-border"
+                                                        colspan="2">
+                                                        USD
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0 right-border"
+                                                        colspan="2">
+                                                        EUR
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0" colspan="2">
+                                                        <small>100 </small>RUB
+                                                    </th>
+                                                </tr>
+                                                <tr class="head-sort_i">
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting right-border">Продажа</th>
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting right-border">Продажа</th>
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting">Продажа</th>
+                                                </tr>
+                                                </thead>
+                                                <tbody>
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                                                                                        <tr class=" tablesorter-hasChildRow" >
+                                        <td>
+                                                                                                                                        <a href="#" class="expand"><span
+                                                            class="icon icon-right-dir"></span>БСБ Банк
+                                                </a>
+                                                                                    </td>
+                                        <td>3,1750</td>
+                                        <td class="right-border">3,1880</td>
+                                        <td>3,5020</td>
+                                        <td class="right-border">3,5450</td>
+                                        <td>3,4450</td>
+                                        <td>3,4890</td>
+                                    </tr>
+                                     
+                                    <tr class="tablesorter-childRow">
+                                        <td colspan="9" class="slide" id="15">
+                                            <table class="table table-sm table-hover table-nested">
+                                                <thead class="table-head">
+                                                <tr class="head-sort_i_first">
+                                                    <th class="sorting bank pl-4" rowspan="2"><span
+                                                                class="font-weight-400">отделения БСБ Банка</span>
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0 right-border"
+                                                        colspan="2">
+                                                        USD
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0 right-border"
+                                                        colspan="2">
+                                                        EUR
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0" colspan="2">
+                                                        <small>100 </small>RUB
+                                                    </th>
+                                                </tr>
+                                                <tr class="head-sort_i">
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting right-border">Продажа</th>
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting right-border">Продажа</th>
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting">Продажа</th>
+                                                </tr>
+                                                </thead>
+                                                <tbody>
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                                                                                        <tr class=" tablesorter-hasChildRow" >
+                                        <td>
+                                                                                                                                        <a href="#" class="expand"><span
+                                                            class="icon icon-right-dir"></span>Статусбанк
+                                                </a>
+                                                                                    </td>
+                                        <td>3,1750</td>
+                                        <td class="right-border">3,1850</td>
+                                        <td>3,5030</td>
+                                        <td class="right-border">3,5180</td>
+                                        <td>3,4820</td>
+                                        <td>3,4880</td>
+                                    </tr>
+                                     
+                                    <tr class="tablesorter-childRow">
+                                        <td colspan="9" class="slide" id="19">
+                                            <table class="table table-sm table-hover table-nested">
+                                                <thead class="table-head">
+                                                <tr class="head-sort_i_first">
+                                                    <th class="sorting bank pl-4" rowspan="2"><span
+                                                                class="font-weight-400">отделения Статусбанка</span>
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0 right-border"
+                                                        colspan="2">
+                                                        USD
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0 right-border"
+                                                        colspan="2">
+                                                        EUR
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0" colspan="2">
+                                                        <small>100 </small>RUB
+                                                    </th>
+                                                </tr>
+                                                <tr class="head-sort_i">
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting right-border">Продажа</th>
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting right-border">Продажа</th>
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting">Продажа</th>
+                                                </tr>
+                                                </thead>
+                                                <tbody>
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                                                                                        <tr class=" tablesorter-hasChildRow" >
+                                        <td>
+                                                                                                                                        <a href="#" class="expand"><span
+                                                            class="icon icon-right-dir"></span>Банк Дабрабыт
+                                                </a>
+                                                                                    </td>
+                                        <td>3,1720</td>
+                                        <td class="right-border">3,1900</td>
+                                        <td>3,4900</td>
+                                        <td class="right-border">3,5400</td>
+                                        <td>3,4700</td>
+                                        <td>3,5150</td>
+                                    </tr>
+                                     
+                                    <tr class="tablesorter-childRow">
+                                        <td colspan="9" class="slide" id="1">
+                                            <table class="table table-sm table-hover table-nested">
+                                                <thead class="table-head">
+                                                <tr class="head-sort_i_first">
+                                                    <th class="sorting bank pl-4" rowspan="2"><span
+                                                                class="font-weight-400">отделения Банка Дабрабыт</span>
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0 right-border"
+                                                        colspan="2">
+                                                        USD
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0 right-border"
+                                                        colspan="2">
+                                                        EUR
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0" colspan="2">
+                                                        <small>100 </small>RUB
+                                                    </th>
+                                                </tr>
+                                                <tr class="head-sort_i">
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting right-border">Продажа</th>
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting right-border">Продажа</th>
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting">Продажа</th>
+                                                </tr>
+                                                </thead>
+                                                <tbody>
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                                                                                        <tr class=" tablesorter-hasChildRow" >
+                                        <td>
+                                                                                                                                        <a href="#" class="expand"><span
+                                                            class="icon icon-right-dir"></span>БНБ-Банк
+                                                </a>
+                                                                                    </td>
+                                        <td>3,1710</td>
+                                        <td class="right-border">3,1980</td>
+                                        <td>3,4710</td>
+                                        <td class="right-border">3,5490</td>
+                                        <td>3,4810</td>
+                                        <td>3,5100</td>
+                                    </tr>
+                                     
+                                    <tr class="tablesorter-childRow">
+                                        <td colspan="9" class="slide" id="6">
+                                            <table class="table table-sm table-hover table-nested">
+                                                <thead class="table-head">
+                                                <tr class="head-sort_i_first">
+                                                    <th class="sorting bank pl-4" rowspan="2"><span
+                                                                class="font-weight-400">отделения БНБ-Банка</span>
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0 right-border"
+                                                        colspan="2">
+                                                        USD
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0 right-border"
+                                                        colspan="2">
+                                                        EUR
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0" colspan="2">
+                                                        <small>100 </small>RUB
+                                                    </th>
+                                                </tr>
+                                                <tr class="head-sort_i">
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting right-border">Продажа</th>
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting right-border">Продажа</th>
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting">Продажа</th>
+                                                </tr>
+                                                </thead>
+                                                <tbody>
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                                                                                        <tr class=" tablesorter-hasChildRow" >
+                                        <td>
+                                                                                                                                        <a href="#" class="expand"><span
+                                                            class="icon icon-right-dir"></span>Беларусбанк
+                                                </a>
+                                                                                    </td>
+                                        <td>3,1700</td>
+                                        <td class="right-border">3,2100</td>
+                                        <td>3,4700</td>
+                                        <td class="right-border">3,5300</td>
+                                        <td>3,4200</td>
+                                        <td>3,4850</td>
+                                    </tr>
+                                     
+                                    <tr class="tablesorter-childRow">
+                                        <td colspan="9" class="slide" id="2">
+                                            <table class="table table-sm table-hover table-nested">
+                                                <thead class="table-head">
+                                                <tr class="head-sort_i_first">
+                                                    <th class="sorting bank pl-4" rowspan="2"><span
+                                                                class="font-weight-400">отделения Беларусбанка</span>
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0 right-border"
+                                                        colspan="2">
+                                                        USD
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0 right-border"
+                                                        colspan="2">
+                                                        EUR
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0" colspan="2">
+                                                        <small>100 </small>RUB
+                                                    </th>
+                                                </tr>
+                                                <tr class="head-sort_i">
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting right-border">Продажа</th>
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting right-border">Продажа</th>
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting">Продажа</th>
+                                                </tr>
+                                                </thead>
+                                                <tbody>
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                                                                                        <tr class=" tablesorter-hasChildRow" >
+                                        <td>
+                                                                                                                                        <a href="#" class="expand"><span
+                                                            class="icon icon-right-dir"></span>МТБанк
+                                                </a>
+                                                                                    </td>
+                                        <td>3,1700</td>
+                                        <td class="right-border">3,1880</td>
+                                        <td>3,4700</td>
+                                        <td class="right-border">3,5300</td>
+                                        <td>3,4000</td>
+                                        <td>3,5300</td>
+                                    </tr>
+                                     
+                                    <tr class="tablesorter-childRow">
+                                        <td colspan="9" class="slide" id="11">
+                                            <table class="table table-sm table-hover table-nested">
+                                                <thead class="table-head">
+                                                <tr class="head-sort_i_first">
+                                                    <th class="sorting bank pl-4" rowspan="2"><span
+                                                                class="font-weight-400">отделения МТБанка</span>
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0 right-border"
+                                                        colspan="2">
+                                                        USD
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0 right-border"
+                                                        colspan="2">
+                                                        EUR
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0" colspan="2">
+                                                        <small>100 </small>RUB
+                                                    </th>
+                                                </tr>
+                                                <tr class="head-sort_i">
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting right-border">Продажа</th>
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting right-border">Продажа</th>
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting">Продажа</th>
+                                                </tr>
+                                                </thead>
+                                                <tbody>
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                                                                                        <tr class=" tablesorter-hasChildRow" >
+                                        <td>
+                                                                                                                                        <a href="#" class="expand"><span
+                                                            class="icon icon-right-dir"></span>ТехноБанк
+                                                </a>
+                                                                                    </td>
+                                        <td>3,1700</td>
+                                        <td class="right-border">3,1850</td>
+                                        <td>3,5000</td>
+                                        <td class="right-border">3,5300</td>
+                                        <td>3,4800</td>
+                                        <td>3,5000</td>
+                                    </tr>
+                                     
+                                    <tr class="tablesorter-childRow">
+                                        <td colspan="9" class="slide" id="4">
+                                            <table class="table table-sm table-hover table-nested">
+                                                <thead class="table-head">
+                                                <tr class="head-sort_i_first">
+                                                    <th class="sorting bank pl-4" rowspan="2"><span
+                                                                class="font-weight-400">отделения ТехноБанка</span>
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0 right-border"
+                                                        colspan="2">
+                                                        USD
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0 right-border"
+                                                        colspan="2">
+                                                        EUR
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0" colspan="2">
+                                                        <small>100 </small>RUB
+                                                    </th>
+                                                </tr>
+                                                <tr class="head-sort_i">
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting right-border">Продажа</th>
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting right-border">Продажа</th>
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting">Продажа</th>
+                                                </tr>
+                                                </thead>
+                                                <tbody>
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                                                                                        <tr class=" tablesorter-hasChildRow" >
+                                        <td>
+                                                                                                                                        <a href="#" class="expand"><span
+                                                            class="icon icon-right-dir"></span>БТА Банк
+                                                </a>
+                                                                                    </td>
+                                        <td>3,1700</td>
+                                        <td class="right-border">3,2100</td>
+                                        <td>3,4650</td>
+                                        <td class="right-border">3,5430</td>
+                                        <td>3,4300</td>
+                                        <td>3,5100</td>
+                                    </tr>
+                                     
+                                    <tr class="tablesorter-childRow">
+                                        <td colspan="9" class="slide" id="22">
+                                            <table class="table table-sm table-hover table-nested">
+                                                <thead class="table-head">
+                                                <tr class="head-sort_i_first">
+                                                    <th class="sorting bank pl-4" rowspan="2"><span
+                                                                class="font-weight-400">отделения БТА Банка</span>
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0 right-border"
+                                                        colspan="2">
+                                                        USD
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0 right-border"
+                                                        colspan="2">
+                                                        EUR
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0" colspan="2">
+                                                        <small>100 </small>RUB
+                                                    </th>
+                                                </tr>
+                                                <tr class="head-sort_i">
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting right-border">Продажа</th>
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting right-border">Продажа</th>
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting">Продажа</th>
+                                                </tr>
+                                                </thead>
+                                                <tbody>
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                                                                                        <tr class=" tablesorter-hasChildRow" >
+                                        <td>
+                                                                                                                                        <a href="#" class="expand"><span
+                                                            class="icon icon-right-dir"></span>Белгазпромбанк
+                                                </a>
+                                                                                    </td>
+                                        <td>3,1630</td>
+                                        <td class="right-border">3,1850</td>
+                                        <td>3,4750</td>
+                                        <td class="right-border">3,5550</td>
+                                        <td>3,4200</td>
+                                        <td>3,5110</td>
+                                    </tr>
+                                     
+                                    <tr class="tablesorter-childRow">
+                                        <td colspan="9" class="slide" id="14">
+                                            <table class="table table-sm table-hover table-nested">
+                                                <thead class="table-head">
+                                                <tr class="head-sort_i_first">
+                                                    <th class="sorting bank pl-4" rowspan="2"><span
+                                                                class="font-weight-400">отделения Белгазпромбанка</span>
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0 right-border"
+                                                        colspan="2">
+                                                        USD
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0 right-border"
+                                                        colspan="2">
+                                                        EUR
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0" colspan="2">
+                                                        <small>100 </small>RUB
+                                                    </th>
+                                                </tr>
+                                                <tr class="head-sort_i">
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting right-border">Продажа</th>
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting right-border">Продажа</th>
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting">Продажа</th>
+                                                </tr>
+                                                </thead>
+                                                <tbody>
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                                                                                        <tr class=" tablesorter-hasChildRow" >
+                                        <td>
+                                                                                                                                        <a href="#" class="expand"><span
+                                                            class="icon icon-right-dir"></span>ТК Банк
+                                                </a>
+                                                                                    </td>
+                                        <td>3,1600</td>
+                                        <td class="right-border">3,1900</td>
+                                        <td>3,4900</td>
+                                        <td class="right-border">3,5200</td>
+                                        <td>3,4700</td>
+                                        <td>3,5000</td>
+                                    </tr>
+                                     
+                                    <tr class="tablesorter-childRow">
+                                        <td colspan="9" class="slide" id="33">
+                                            <table class="table table-sm table-hover table-nested">
+                                                <thead class="table-head">
+                                                <tr class="head-sort_i_first">
+                                                    <th class="sorting bank pl-4" rowspan="2"><span
+                                                                class="font-weight-400">отделения ТК Банка</span>
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0 right-border"
+                                                        colspan="2">
+                                                        USD
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0 right-border"
+                                                        colspan="2">
+                                                        EUR
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0" colspan="2">
+                                                        <small>100 </small>RUB
+                                                    </th>
+                                                </tr>
+                                                <tr class="head-sort_i">
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting right-border">Продажа</th>
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting right-border">Продажа</th>
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting">Продажа</th>
+                                                </tr>
+                                                </thead>
+                                                <tbody>
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                                                                                        <tr class=" tablesorter-hasChildRow" >
+                                        <td>
+                                                                                                                                        <a href="#" class="expand"><span
+                                                            class="icon icon-right-dir"></span>Приорбанк
+                                                </a>
+                                                                                    </td>
+                                        <td>3,1600</td>
+                                        <td class="right-border">3,2100</td>
+                                        <td>3,5000</td>
+                                        <td class="right-border">3,5550</td>
+                                        <td>3,4400</td>
+                                        <td>3,5300</td>
+                                    </tr>
+                                     
+                                    <tr class="tablesorter-childRow">
+                                        <td colspan="9" class="slide" id="10">
+                                            <table class="table table-sm table-hover table-nested">
+                                                <thead class="table-head">
+                                                <tr class="head-sort_i_first">
+                                                    <th class="sorting bank pl-4" rowspan="2"><span
+                                                                class="font-weight-400">отделения Приорбанка</span>
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0 right-border"
+                                                        colspan="2">
+                                                        USD
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0 right-border"
+                                                        colspan="2">
+                                                        EUR
+                                                    </th>
+                                                    <th class="sorter-false text-center pb-0" colspan="2">
+                                                        <small>100 </small>RUB
+                                                    </th>
+                                                </tr>
+                                                <tr class="head-sort_i">
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting right-border">Продажа</th>
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting right-border">Продажа</th>
+                                                    <th class="sortInitialOrder-desc sorting">Покупка</th>
+                                                    <th class="sorting">Продажа</th>
+                                                </tr>
+                                                </thead>
+                                                <tbody>
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                                                                                                            </tbody>
+                        </table>
+                        <ul class="nav nav-cities pb-2">
+                                                                                                <li class="nav-item"><a class="nav-link"
+                                                            href="/brest/kurs">Брест</a>
+                                    </li>
+                                                                                                                                <li class="nav-item"><a class="nav-link"
+                                                            href="/vitebsk/kurs">Витебск</a>
+                                    </li>
+                                                                                                                                <li class="nav-item"><a class="nav-link"
+                                                            href="/gomel/kurs">Гомель</a>
+                                    </li>
+                                                                                                                                <li class="nav-item"><a class="nav-link"
+                                                            href="/grodno/kurs">Гродно</a>
+                                    </li>
+                                                                                                                                <li class="nav-item nav-link active">Минск</li>
+                                                                                                                                <li class="nav-item"><a class="nav-link"
+                                                            href="/mogilev/kurs">Могилев</a>
+                                    </li>
+                                                                                                                </ul>
+                    </section>
+                </article>
+            </main>
+            <aside class="flex-width-240px mx-2 show-if-width-more-1000px">
+                <div class="mx-auto shadow bg-white sticky-top min-height-200px text-center mb-3">
+                  <div class="">
+		<div align="center" class="mx-auto">
+	<div id="adfox_153260592874593292"></div>
+</div>	</div>
+	                </div>                    
+            </aside>
+        </div>
+        <aside class="row no-gutters">
+            <div class="col mx-2 bg-white shadow mb-3">
+                <div class="px-3">
+		<h2 class="py-3 mb-0">Популярное</h2>
+	<p class=""><a href="/news/prognoz-kursa-belorusskogo-rublya-dollar-sposoben-22704" class="">Прогноз курса белорусского рубля: доллар способен подорожать до декабрьского рекорда</a></p>
+	<p class=""><a href="/news/prognoz-dollar-mozhet-sushestvenno-podeshevet-na-22703" class="">Прогноз: доллар может существенно подешеветь на фоне повышенной волатильности</a></p>
+	<p class=""><a href="/news/utrom-22-dekabrya-dollar-dorozhaet-pyatyi-raz-za-22697" class="">Утром 22 декабря доллар дорожает пятый раз за шесть дней и достигает максимума за 15 дней</a></p>
+	<p class=""><a href="/news/utrom-26-dekabrya-dollar-desheveet-i-ostavlyaet-22699" class="">Утром 26 декабря доллар дешевеет и оставляет максимум за две недели</a></p>
+	</div>
+	            </div>
+            <div class="col mx-2 bg-white shadow mb-3">
+                <div class="pt-2">
+		<div class="kursy-osnovnyh-valyut-cb">
+	<section class="cb-exchange-rates mb-3">
+	<h2 class="py-2 pl-3 m-0"><a href="/kursy-valyut/natsbank-rb">Курсы Нацбанка РБ</a></h2>
+    <table class="table table-sm table-borderless">
+        <thead>
+            <tr class="text-center">
+                <th></th>
+                <th></th>
+                <th colspan=2 class="font-weight-light px-0">на&nbsp;сегодня</th>
+                            </tr>
+        </thead>
+        <tbody>
+                                  <tr class="text-center h4">
+                <td class="text-right px-0 align-bottom pl-1">1</td>
+                <td class="text-left align-bottom pl-1 pr-0"><a href="/kursy-valyut/natsbank-rb/dollar">USD</a></td>
+                <td class="align-bottom">3,1953
+                    
+                    <span class="text-danger">↓</span>
+                    
+                </td>
+                                <td>
+                                            <span class="text-danger">-0,0009</span>
+                                    </td>                
+                            </tr>
+                                              <tr class="text-center h4">
+                <td class="text-right px-0 align-bottom pl-1">1</td>
+                <td class="text-left align-bottom pl-1 pr-0"><a href="/kursy-valyut/natsbank-rb/evro">EUR</a></td>
+                <td class="align-bottom">3,5319
+                    
+                    <span class="text-success">↑</span>
+                    
+                </td>
+                                <td>
+                                            <span class="text-success">+0,0115</span>
+                                    </td>                
+                            </tr>
+                                              <tr class="text-center h4">
+                <td class="text-right px-0 align-bottom pl-1">100</td>
+                <td class="text-left align-bottom pl-1 pr-0"><a href="/kursy-valyut/natsbank-rb/rossiyskiy-rubl">RUB</a></td>
+                <td class="align-bottom">3,4831
+                    
+                    <span class="text-success">↑</span>
+                    
+                </td>
+                                <td>
+                                            <span class="text-success">+0,0011</span>
+                                    </td>                
+                            </tr>
+                                              <tr class="text-center h4">
+                <td class="text-right px-0 align-bottom pl-1">10</td>
+                <td class="text-left align-bottom pl-1 pr-0"><a href="/kursy-valyut/natsbank-rb/zlotiy">PLN</a></td>
+                <td class="align-bottom">8,1559
+                    
+                    <span class="text-success">↑</span>
+                    
+                </td>
+                                <td>
+                                            <span class="text-success">+0,0441</span>
+                                    </td>                
+                            </tr>
+                                              <tr class="text-center h4">
+                <td class="text-right px-0 align-bottom pl-1">100</td>
+                <td class="text-left align-bottom pl-1 pr-0"><a href="/kursy-valyut/natsbank-rb/grivna">UAH</a></td>
+                <td class="align-bottom">8,5084
+                    
+                    <span class="text-danger">↓</span>
+                    
+                </td>
+                                <td>
+                                            <span class="text-danger">-0,0024</span>
+                                    </td>                
+                            </tr>
+                              </tbody>
+    </table>
+    
+</section>
+</div>	</div>
+	            </div>
+            <div class="col mx-2 bg-white shadow mb-3">
+                <div class="pt-2">
+		<section class="pb-1 mb-3">
+    <h2 class="py-2 pl-3 m-0">Конвертер валют <span class="small text-nowrap h4">по курсу НБ РБ</span> <span class="small text-nowrap h4">на сегодня</span></h2>
+    <div class="input-group input-group-sm mb-2 px-3 converters">
+        <input class="form-control h4 mb-0 pr-3 text-right h-auto" type="number" min="0" name="BYN" value="100.00" inputmode="numeric" data-mult="1" data-rate="1">
+        <div class="input-group-append">
+            <span class="input-group-text h4 text-monospace h-auto">BYN</span>
+        </div>
+    </div>
+            <div class="input-group input-group-sm mb-2 px-3 converters">
+        <input class="form-control h4 mb-0 pr-3 text-right h-auto" type="number" min="0" name="USD" value="31.30" inputmode="decimal" data-mult="1" data-rate="3.1953">
+        <div class="input-group-append">
+            <span class="input-group-text h4 text-monospace h-auto">USD</span>
+        </div>
+    </div>
+                <div class="input-group input-group-sm mb-2 px-3 converters">
+        <input class="form-control h4 mb-0 pr-3 text-right h-auto" type="number" min="0" name="EUR" value="28.31" inputmode="decimal" data-mult="1" data-rate="3.5319">
+        <div class="input-group-append">
+            <span class="input-group-text h4 text-monospace h-auto">EUR</span>
+        </div>
+    </div>
+                <div class="input-group input-group-sm mb-2 px-3 converters">
+        <input class="form-control h4 mb-0 pr-3 text-right h-auto" type="number" min="0" name="RUB" value="2871.01" inputmode="decimal" data-mult="100" data-rate="3.4831">
+        <div class="input-group-append">
+            <span class="input-group-text h4 text-monospace h-auto">RUB</span>
+        </div>
+    </div>
+                <div class="input-group input-group-sm mb-2 px-3 converters">
+        <input class="form-control h4 mb-0 pr-3 text-right h-auto" type="number" min="0" name="PLN" value="122.61" inputmode="decimal" data-mult="10" data-rate="8.1559">
+        <div class="input-group-append">
+            <span class="input-group-text h4 text-monospace h-auto">PLN</span>
+        </div>
+    </div>
+                <div class="input-group input-group-sm mb-2 px-3 converters">
+        <input class="form-control h4 mb-0 pr-3 text-right h-auto" type="number" min="0" name="UAH" value="1175.31" inputmode="decimal" data-mult="100" data-rate="8.5084">
+        <div class="input-group-append">
+            <span class="input-group-text h4 text-monospace h-auto">UAH</span>
+        </div>
+    </div>
+        </section>
+	</div>
+	            </div>
+        </aside>              
+
+    </div>
+
+<div class="container-fluid px-2">
+    <aside class="row no-gutters mb-3">
+        <section class="col mx-2 bg-white shadow">
+            <div class="">
+		<div id="adfox_157625278854485782" class="shadow text-center"></div>	</div>
+	        </section>
+    </aside>
+</div>
+
+<footer class="footer">
+    <div class="container-fluid">
+      <p class="text-muted">ВСЕ БАНКИ БЕЛАРУСИ <strong>18+</strong> | Кредиты. Вклады. Курсы валют. Обращаем ваше внимание на то, что содержание сайта носит исключительно информационный характер и ни при каких условиях не является публичной офертой. Информация на сайте обновляется с задержкой. УНП 191370070</p>
+      <p class="text-muted"><a href="https://select.by/news/politika-konfidencialnosti-20431" target="_blank">Политика конфиденциальности</a></p>
+    </div>
+</footer>
+
+<script async src="https://yandex.ru/ads/system/header-bidding.js"></script>
+<script async src="/js/hb.js"></script>
+<script>window.yaContextCb = window.yaContextCb || []</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+<div id="adfox_fullscreen_desktop"></div>
+<!--<div id="adfox_desk_fullscreen"></div>-->
+<script async src="/js/desk-ads.160523.js"></script>
+
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-2340704-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-2340704-1');
+</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CFX209W3QN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-CFX209W3QN');
+</script>
+
+<!-- Ya.Metrika -->
+<script type="text/javascript" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter85775 = new Ya.Metrika({
+                    id:85775,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/85775" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Ya.Metrika -->
+
+
+<!--Live-->
+<script type="text/javascript">
+new Image().src = "//counter.yadro.ru/hit?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,150))+
+";"+Math.random();</script>
+<!--/Live-END-->
+
+        <script type="application/ld+json"> {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Курсы валют. Курс доллара. Курс евро. Курс рубля.",
+  "mainEntity": {
+    "@type": "ItemList",
+      "name": "Лучшие курсы валют в Минске на сегодня",
+      "itemListElement": [
+                                          {
+                      "@type": "ExchangeRateSpecification",
+                      "currency": "USD",
+        "currentExchangeRate": {
+          "@type": "UnitPriceSpecification",
+          "price": "3,1790",
+          "priceCurrency": "BYN",
+          "priceType": "Лучший курс покупки 💲 доллара
+                    в Минске сегодня"
+        }
+      },
+      {
+        "@type": "ExchangeRateSpecification",
+        "currency": "USD",
+        "currentExchangeRate": {
+          "@type": "UnitPriceSpecification",
+          "price": "3,1850",
+          "priceCurrency": "BYN",
+          "priceType": "Лучший курс продажи 💲 доллара
+                    в Минске сегодня"
+        }
+      }
+         ,                                                                  {
+                      "@type": "ExchangeRateSpecification",
+                      "currency": "EUR",
+        "currentExchangeRate": {
+          "@type": "UnitPriceSpecification",
+          "price": "3,5030",
+          "priceCurrency": "BYN",
+          "priceType": "Лучший курс покупки евро
+                    в Минске сегодня"
+        }
+      },
+      {
+        "@type": "ExchangeRateSpecification",
+        "currency": "EUR",
+        "currentExchangeRate": {
+          "@type": "UnitPriceSpecification",
+          "price": "3,5180",
+          "priceCurrency": "BYN",
+          "priceType": "Лучший курс продажи евро
+                    в Минске сегодня"
+        }
+      }
+         ,                                                                  {
+                      "@type": "ExchangeRateSpecification",
+                      "currency": "RUB",
+        "currentExchangeRate": {
+          "@type": "UnitPriceSpecification",
+          "price": "3,4820",
+          "priceCurrency": "BYN",
+          "priceType": "Лучший курс покупки российского рубля
+                    в Минске сегодня"
+        }
+      },
+      {
+        "@type": "ExchangeRateSpecification",
+        "currency": "RUB",
+        "currentExchangeRate": {
+          "@type": "UnitPriceSpecification",
+          "price": "3,4850",
+          "priceCurrency": "BYN",
+          "priceType": "Лучший курс продажи российского рубля
+                    в Минске сегодня"
+        }
+      }
+         ,                                                                  {
+                      "@type": "ExchangeRateSpecification",
+                      "currency": "PLN",
+        "currentExchangeRate": {
+          "@type": "UnitPriceSpecification",
+          "price": "7,8500",
+          "priceCurrency": "BYN",
+          "priceType": "Лучший курс покупки злотого
+                    в Минске сегодня"
+        }
+      },
+      {
+        "@type": "ExchangeRateSpecification",
+        "currency": "PLN",
+        "currentExchangeRate": {
+          "@type": "UnitPriceSpecification",
+          "price": "8,0000",
+          "priceCurrency": "BYN",
+          "priceType": "Лучший курс продажи злотого
+                    в Минске сегодня"
+        }
+      }
+         ,                                                                  {
+                      "@type": "ExchangeRateSpecification",
+                      "currency": "UAH",
+        "currentExchangeRate": {
+          "@type": "UnitPriceSpecification",
+          "price": "6,1000",
+          "priceCurrency": "BYN",
+          "priceType": "Лучший курс покупки гривны
+                    в Минске сегодня"
+        }
+      },
+      {
+        "@type": "ExchangeRateSpecification",
+        "currency": "UAH",
+        "currentExchangeRate": {
+          "@type": "UnitPriceSpecification",
+          "price": "5,0000",
+          "priceCurrency": "BYN",
+          "priceType": "Лучший курс продажи гривны
+                    в Минске сегодня"
+        }
+      }
+                                                ]
+          }}
+ </script>
+        <script>
+                var url = 'https://select.by/api/minsk/oldkurs/';
+                var url_cities = 'https://select.by/api/city/dollara';
+        var url_city = '/kurs';
+    </script>
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/jquery.tablesorter.min.js"></script>
+    <script src="/js/jquery.tablesorter.column-widget.min.js"></script>
+    <script src="/js/jquery.tablesorter.widget-staticrow.min.js"></script>
+    <script src="/js/courses.js"></script>
+    <script src="/js/converter.js" async></script>
+</body>
+</html>
