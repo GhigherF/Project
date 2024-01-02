@@ -10,12 +10,12 @@ int CurvedTrapezoidArea() {
 	int UserOption, NotExit = true;
 	while (NotExit) {
 		printf("\033c");
-		printf("Выберите функцию, которая будет ограничивать криволинейную трапецию: \n");
-		printf("1. Синус в кубе\n");
-		printf("2. Косинус в кубе\n");
-		printf("3. Экспонента\n");
-		printf("4. X в квадрате\n");
-		printf("5. Выход\n");
+		printf("Г‚Г»ГЎГҐГ°ГЁГІГҐ ГґГіГ­ГЄГ¶ГЁГѕ, ГЄГ®ГІГ®Г°Г Гї ГЎГіГ¤ГҐГІ Г®ГЈГ°Г Г­ГЁГ·ГЁГўГ ГІГј ГЄГ°ГЁГўГ®Г«ГЁГ­ГҐГ©Г­ГіГѕ ГІГ°Г ГЇГҐГ¶ГЁГѕ: \n");
+		printf("1. Г‘ГЁГ­ГіГ± Гў ГЄГіГЎГҐ\n");
+		printf("2. ГЉГ®Г±ГЁГ­ГіГ± Гў ГЄГіГЎГҐ\n");
+		printf("3. ГќГЄГ±ГЇГ®Г­ГҐГ­ГІГ \n");
+		printf("4. X Гў ГЄГўГ Г¤Г°Г ГІГҐ\n");
+		printf("5. Г‚Г»ГµГ®Г¤\n");
 		cin >> UserOption;
 		switch (UserOption) {
 		case 1:
@@ -34,7 +34,7 @@ int CurvedTrapezoidArea() {
 			return 0;
 			break;
 		default:
-			printf("Выбран неверный вариант меню! Повторите ввод\n");
+			printf("Г‚Г»ГЎГ°Г Г­ Г­ГҐГўГҐГ°Г­Г»Г© ГўГ Г°ГЁГ Г­ГІ Г¬ГҐГ­Гѕ! ГЏГ®ГўГІГ®Г°ГЁГІГҐ ГўГўГ®Г¤\n");
 			system("pause");
 			break;
 		}
@@ -46,10 +46,10 @@ int CurvedTrapezoidArea() {
 		char ElementValue[MAX_SIZE];
 		double a, b, h, S = 0;
 		printf("\033c");
-		printf("Введите границы отрезков: \n");
+		printf("Г‚ГўГҐГ¤ГЁГІГҐ ГЈГ°Г Г­ГЁГ¶Г» Г®ГІГ°ГҐГ§ГЄГ®Гў: \n");
 		cin >> ElementValue;
 		if (static_cast<int>(ElementValue[0]) > 57 && static_cast<int>(ElementValue[0]) != 45 || static_cast<int>(ElementValue[0]) < 48 && static_cast<int>(ElementValue[0]) != 45) {
-			printf("Ошибка - введен неправильный символ....\n");
+			printf("ГЋГёГЁГЎГЄГ  - ГўГўГҐГ¤ГҐГ­ Г­ГҐГЇГ°Г ГўГЁГ«ГјГ­Г»Г© Г±ГЁГ¬ГўГ®Г«....\n");
 			system("pause");
 			return 0;
 		}
@@ -58,7 +58,7 @@ int CurvedTrapezoidArea() {
 		}
 		cin >> ElementValue;
 		if (static_cast<int>(ElementValue[0]) > 57 && static_cast<int>(ElementValue[0]) != 45 || static_cast<int>(ElementValue[0]) < 48 && static_cast<int>(ElementValue[0]) != 45) {
-			printf("Ошибка - введен неправильный символ....\n");
+			printf("ГЋГёГЁГЎГЄГ  - ГўГўГҐГ¤ГҐГ­ Г­ГҐГЇГ°Г ГўГЁГ«ГјГ­Г»Г© Г±ГЁГ¬ГўГ®Г«....\n");
 			system("pause");
 			return 0;
 		}
@@ -70,13 +70,13 @@ int CurvedTrapezoidArea() {
 		S = S + h * ((pow(sin(x), 3)) + (pow(sin(x), 3) + h)) / 2;
 		x = x + h;
 		if (x > (a - h)) {
-			printf("Площадь криволинейной трапеции, ограниченной графиком (sin(x))^3 = %lf\n", abs(S));
+			printf("ГЏГ«Г®Г№Г Г¤Гј ГЄГ°ГЁГўГ®Г«ГЁГ­ГҐГ©Г­Г®Г© ГІГ°Г ГЇГҐГ¶ГЁГЁ, Г®ГЈГ°Г Г­ГЁГ·ГҐГ­Г­Г®Г© ГЈГ°Г ГґГЁГЄГ®Г¬ (sin(x))^3 = %lf\n", abs(S));
 		}
 		else {
 			S = S + h * ((pow(sin(x), 3)) + (pow(sin(x), 3) + h)) / 2;
 			x = x + h;
 			if (x > (a - h)) {
-				printf("Площадь криволинейной трапеции, ограниченной графиком (sin(x))^3 = %lf\n", abs(S));
+				printf("ГЏГ«Г®Г№Г Г¤Гј ГЄГ°ГЁГўГ®Г«ГЁГ­ГҐГ©Г­Г®Г© ГІГ°Г ГЇГҐГ¶ГЁГЁ, Г®ГЈГ°Г Г­ГЁГ·ГҐГ­Г­Г®Г© ГЈГ°Г ГґГЁГЄГ®Г¬ (sin(x))^3 = %lf\n", abs(S));
 			}
 		}
 		system("pause");
@@ -87,10 +87,10 @@ int CurvedTrapezoidArea() {
 		char ElementValue[MAX_SIZE];
 		double a, b, h, S = 0;
 		printf("\033c");
-		printf("Введите границы отрезков: \n");
+		printf("Г‚ГўГҐГ¤ГЁГІГҐ ГЈГ°Г Г­ГЁГ¶Г» Г®ГІГ°ГҐГ§ГЄГ®Гў: \n");
 		cin >> ElementValue;
 		if (static_cast<int>(ElementValue[0]) > 57 && static_cast<int>(ElementValue[0]) != 45 || static_cast<int>(ElementValue[0]) < 48 && static_cast<int>(ElementValue[0]) != 45) {
-			printf("Ошибка - введен неправильный символ....\n");
+			printf("ГЋГёГЁГЎГЄГ  - ГўГўГҐГ¤ГҐГ­ Г­ГҐГЇГ°Г ГўГЁГ«ГјГ­Г»Г© Г±ГЁГ¬ГўГ®Г«....\n");
 			system("pause");
 			return 0;
 		}
@@ -99,7 +99,7 @@ int CurvedTrapezoidArea() {
 		}
 		cin	>> ElementValue;
 		if (static_cast<int>(ElementValue[0]) > 57 && static_cast<int>(ElementValue[0]) != 45 || static_cast<int>(ElementValue[0]) < 48 && static_cast<int>(ElementValue[0]) != 45) {
-			printf("Ошибка - введен неправильный символ....\n");
+			printf("ГЋГёГЁГЎГЄГ  - ГўГўГҐГ¤ГҐГ­ Г­ГҐГЇГ°Г ГўГЁГ«ГјГ­Г»Г© Г±ГЁГ¬ГўГ®Г«....\n");
 			system("pause");
 			return 0;
 		}
@@ -111,13 +111,13 @@ int CurvedTrapezoidArea() {
 		S = S + h * ((pow(cos(x), 3)) + (pow(cos(x), 3) + h)) / 2;
 		x = x + h;
 		if (x > (a - h)) {
-			printf("Площадь криволинейной трапеции, ограниченной графиком (cos(x))^3 = %lf\n", abs(S));
+			printf("ГЏГ«Г®Г№Г Г¤Гј ГЄГ°ГЁГўГ®Г«ГЁГ­ГҐГ©Г­Г®Г© ГІГ°Г ГЇГҐГ¶ГЁГЁ, Г®ГЈГ°Г Г­ГЁГ·ГҐГ­Г­Г®Г© ГЈГ°Г ГґГЁГЄГ®Г¬ (cos(x))^3 = %lf\n", abs(S));
 		}
 		else {
 			S = S + h * ((pow(cos(x), 3)) + (pow(cos(x), 3) + h)) / 2;
 			x = x + h;
 			if (x > (a - h)) {
-				printf("Площадь криволинейной трапеции, ограниченной графиком (cos(x))^3 = %lf\n", abs(S));
+				printf("ГЏГ«Г®Г№Г Г¤Гј ГЄГ°ГЁГўГ®Г«ГЁГ­ГҐГ©Г­Г®Г© ГІГ°Г ГЇГҐГ¶ГЁГЁ, Г®ГЈГ°Г Г­ГЁГ·ГҐГ­Г­Г®Г© ГЈГ°Г ГґГЁГЄГ®Г¬ (cos(x))^3 = %lf\n", abs(S));
 			}
 		}
 		system("pause");
@@ -127,10 +127,10 @@ int CurvedTrapezoidArea() {
 		char ElementValue[MAX_SIZE];
 		double a, b, h, S = 0;
 		printf("\033c");
-		printf("Введите границы отрезков: \n");
+		printf("Г‚ГўГҐГ¤ГЁГІГҐ ГЈГ°Г Г­ГЁГ¶Г» Г®ГІГ°ГҐГ§ГЄГ®Гў: \n");
 		cin >> ElementValue;
 		if (static_cast<int>(ElementValue[0]) > 57 && static_cast<int>(ElementValue[0]) != 45 || static_cast<int>(ElementValue[0]) < 48 && static_cast<int>(ElementValue[0]) != 45) {
-			printf("Ошибка - введен неправильный символ....\n");
+			printf("ГЋГёГЁГЎГЄГ  - ГўГўГҐГ¤ГҐГ­ Г­ГҐГЇГ°Г ГўГЁГ«ГјГ­Г»Г© Г±ГЁГ¬ГўГ®Г«....\n");
 			system("pause");
 			return 0;
 		}
@@ -139,7 +139,7 @@ int CurvedTrapezoidArea() {
 		}
 		cin >> ElementValue;
 		if (static_cast<int>(ElementValue[0]) > 57 && static_cast<int>(ElementValue[0]) != 45 || static_cast<int>(ElementValue[0]) < 48 && static_cast<int>(ElementValue[0]) != 45) {
-			printf("Ошибка - введен неправильный символ....\n");
+			printf("ГЋГёГЁГЎГЄГ  - ГўГўГҐГ¤ГҐГ­ Г­ГҐГЇГ°Г ГўГЁГ«ГјГ­Г»Г© Г±ГЁГ¬ГўГ®Г«....\n");
 			system("pause");
 			return 0;
 		}
@@ -151,13 +151,13 @@ int CurvedTrapezoidArea() {
 		S = S + h * (exp(x) + ((exp(x) + h))) / 2;
 		x = x + h;
 		if (x > (a - h)) {
-			printf("Площадь криволинейной трапеции, ограниченной графиком e^x = %lf\n", abs(S));
+			printf("ГЏГ«Г®Г№Г Г¤Гј ГЄГ°ГЁГўГ®Г«ГЁГ­ГҐГ©Г­Г®Г© ГІГ°Г ГЇГҐГ¶ГЁГЁ, Г®ГЈГ°Г Г­ГЁГ·ГҐГ­Г­Г®Г© ГЈГ°Г ГґГЁГЄГ®Г¬ e^x = %lf\n", abs(S));
 		}
 		else {
 			S = S + h * ((pow(cos(x), 3)) + (pow(cos(x), 3) + h)) / 2;
 			x = x + h;
 			if (x > (a - h)) {
-				printf("Площадь криволинейной трапеции, ограниченной графиком e^x = %lf\n", abs(S));
+				printf("ГЏГ«Г®Г№Г Г¤Гј ГЄГ°ГЁГўГ®Г«ГЁГ­ГҐГ©Г­Г®Г© ГІГ°Г ГЇГҐГ¶ГЁГЁ, Г®ГЈГ°Г Г­ГЁГ·ГҐГ­Г­Г®Г© ГЈГ°Г ГґГЁГЄГ®Г¬ e^x = %lf\n", abs(S));
 			}
 		}
 		system("pause");
@@ -167,10 +167,10 @@ int CurvedTrapezoidArea() {
 		char ElementValue[MAX_SIZE];
 		double a, b, h, S = 0;
 		printf("\033c");
-		printf("Введите границы отрезков: \n");
+		printf("Г‚ГўГҐГ¤ГЁГІГҐ ГЈГ°Г Г­ГЁГ¶Г» Г®ГІГ°ГҐГ§ГЄГ®Гў: \n");
 		cin >> ElementValue;
 		if (static_cast<int>(ElementValue[0]) > 57 && static_cast<int>(ElementValue[0]) != 45 || static_cast<int>(ElementValue[0]) < 48 && static_cast<int>(ElementValue[0]) != 45) {
-			printf("Ошибка - введен неправильный символ....\n");
+			printf("ГЋГёГЁГЎГЄГ  - ГўГўГҐГ¤ГҐГ­ Г­ГҐГЇГ°Г ГўГЁГ«ГјГ­Г»Г© Г±ГЁГ¬ГўГ®Г«....\n");
 			system("pause");
 			return 0;
 		}
@@ -179,7 +179,7 @@ int CurvedTrapezoidArea() {
 		}
 		cin >> ElementValue;
 		if (static_cast<int>(ElementValue[0]) > 57 && static_cast<int>(ElementValue[0]) != 45 || static_cast<int>(ElementValue[0]) < 48 && static_cast<int>(ElementValue[0]) != 45) {
-			printf("Ошибка - введен неправильный символ....\n");
+			printf("ГЋГёГЁГЎГЄГ  - ГўГўГҐГ¤ГҐГ­ Г­ГҐГЇГ°Г ГўГЁГ«ГјГ­Г»Г© Г±ГЁГ¬ГўГ®Г«....\n");
 			system("pause");
 			return 0;
 		}
@@ -191,13 +191,13 @@ int CurvedTrapezoidArea() {
 		S = S + h * (pow(x, 2) + ((pow(x, 2) + h))) / 2;
 		x = x + h;
 		if (x > (a - h)) {
-			printf("Площадь криволинейной трапеции, ограниченной графиком x^2 = %lf\n", abs(S));
+			printf("ГЏГ«Г®Г№Г Г¤Гј ГЄГ°ГЁГўГ®Г«ГЁГ­ГҐГ©Г­Г®Г© ГІГ°Г ГЇГҐГ¶ГЁГЁ, Г®ГЈГ°Г Г­ГЁГ·ГҐГ­Г­Г®Г© ГЈГ°Г ГґГЁГЄГ®Г¬ x^2 = %lf\n", abs(S));
 		}
 		else {
-			S = S + h * ((pow(x, 2)) + (pow(x, 2)) + h) / 2;
+			S = S + h * ((pow(x, 3)) + (pow(x, 2)) + h) / 2;
 			x = x + h;
 			if (x > (a - h)) {
-				printf("Площадь криволинейной трапеции, ограниченной графиком x^2 = %lf\n", abs(S));
+				printf("ГЏГ«Г®Г№Г Г¤Гј ГЄГ°ГЁГўГ®Г«ГЁГ­ГҐГ©Г­Г®Г© ГІГ°Г ГЇГҐГ¶ГЁГЁ, Г®ГЈГ°Г Г­ГЁГ·ГҐГ­Г­Г®Г© ГЈГ°Г ГґГЁГЄГ®Г¬ x^2 = %lf\n", abs(S));
 			}
 		}
 		system("pause");
