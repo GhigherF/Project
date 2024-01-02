@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\MathModules">
+      <UniqueIdentifier>{8fe3cebc-8ab4-47c7-b075-ea895f3277a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\AlgebraModules">
+      <UniqueIdentifier>{0e2d3913-bda1-4ec0-8bbd-f6fedd11e7f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\MathHeaders">
+      <UniqueIdentifier>{b4ae6aed-4b2f-4802-a98c-ef1cc8489799}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\AlgebraHeaders">
+      <UniqueIdentifier>{1143664b-9a18-4708-b9ff-c0eeb566aace}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Index.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMathModule.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="MainAlgebraModule.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Matrix3x3.cpp">
+      <Filter>Исходные файлы\AlgebraModules</Filter>
+    </ClCompile>
+    <ClCompile Include="Discriminant.cpp">
+      <Filter>Исходные файлы\MathModules</Filter>
+    </ClCompile>
+    <ClCompile Include="VectorDistance.cpp">
+      <Filter>Исходные файлы\AlgebraModules</Filter>
+    </ClCompile>
+    <ClCompile Include="VectorAddition.cpp">
+      <Filter>Исходные файлы\AlgebraModules</Filter>
+    </ClCompile>
+    <ClCompile Include="VectorSubstraction.cpp">
+      <Filter>Исходные файлы\AlgebraModules</Filter>
+    </ClCompile>
+    <ClCompile Include="Factorial.cpp">
+      <Filter>Исходные файлы\AlgebraModules</Filter>
+    </ClCompile>
+    <ClCompile Include="exit.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="MatrixSummation.cpp">
+      <Filter>Исходные файлы\AlgebraModules</Filter>
+    </ClCompile>
+    <ClCompile Include="CurvedTrapezoidArea.cpp">
+      <Filter>Исходные файлы\MathModules</Filter>
+    </ClCompile>
+    <ClCompile Include="NLogarithm.cpp">
+      <Filter>Исходные файлы\MathModules</Filter>
+    </ClCompile>
+    <ClCompile Include="Logarithm10.cpp">
+      <Filter>Исходные файлы\MathModules</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="exit.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMathModule.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="MainAlgebraModule.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Matrix3x3.h">
+      <Filter>Файлы заголовков\AlgebraHeaders</Filter>
+    </ClInclude>
+    <ClInclude Include="Discriminant.h">
+      <Filter>Файлы заголовков\MathHeaders</Filter>
+    </ClInclude>
+    <ClInclude Include="VectorDistance.h">
+      <Filter>Файлы заголовков\AlgebraHeaders</Filter>
+    </ClInclude>
+    <ClInclude Include="VectorAddition.h">
+      <Filter>Файлы заголовков\AlgebraHeaders</Filter>
+    </ClInclude>
+    <ClInclude Include="VectorSubstraction.h">
+      <Filter>Файлы заголовков\AlgebraHeaders</Filter>
+    </ClInclude>
+    <ClInclude Include="Factorial.h">
+      <Filter>Файлы заголовков\AlgebraHeaders</Filter>
+    </ClInclude>
+    <ClInclude Include="MatrixSummation.h">
+      <Filter>Файлы заголовков\AlgebraHeaders</Filter>
+    </ClInclude>
+    <ClInclude Include="CurvedTrapezoidArea.h">
+      <Filter>Файлы заголовков\MathHeaders</Filter>
+    </ClInclude>
+    <ClInclude Include="NLogarithm.h">
+      <Filter>Файлы заголовков\MathHeaders</Filter>
+    </ClInclude>
+    <ClInclude Include="Logarithm10.h">
+      <Filter>Файлы заголовков\MathHeaders</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
