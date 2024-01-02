@@ -1,2 +1,0 @@
-﻿  NICECOCK.vcxproj -> D:\Project-main\NICECOCK\x64\Debug\NICECOCK.exe
-C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(5445,5): error MSB3541: Files содержит недопустимое значение "<<<<<<< HEAD". Путь содержит недопустимые знаки.

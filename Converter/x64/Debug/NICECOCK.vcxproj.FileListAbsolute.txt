@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-C:\Users\stude\OneDrive\Рабочий стол\Всякое\project\NICECOCK\x64\Debug\NICECOCK.exe
-C:\Users\stude\OneDrive\Рабочий стол\Всякое\PROJECT_TO_JACUBENKO\Project\NICECOCK\x64\Debug\NICECOCK.exe
-=======
-C:\Users\stude\OneDrive\Рабочий стол\Всякое\project\NICECOCK\x64\Debug\NICECOCK.exe
-C:\Users\stude\OneDrive\Рабочий стол\Всякое\PROJECT_TO_JACUBENKO\Project\NICECOCK\x64\Debug\NICECOCK.exe
->>>>>>> 0a01e1a3d0aa593f08eab400992589d82fd16ed9
