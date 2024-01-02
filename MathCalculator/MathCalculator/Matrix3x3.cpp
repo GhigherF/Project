@@ -9,21 +9,21 @@ int Matrix3x3()
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
 	char ElementValue[MAX_SIZE];
-	int a[n][n], i, j, sum1 = 0, sum2 = 0, d = 0;
+	int a[n][n], i, j, sum1 = 0, sum2 = 0, d = 0, x1, x2;
 	for (i = 0; i < n; i++)
 	{
 		for (j = 0; j < n; j++){
-			printf("Элемент [%d][%d] = ", i, j);
+			printf("ГќГ«ГҐГ¬ГҐГ­ГІ [%d][%d] = ", i, j);
 			cin >> ElementValue;
 			if (static_cast<int>(ElementValue[0]) > 57 && static_cast<int>(ElementValue[0]) != 45 || static_cast<int>(ElementValue[0]) < 48 && static_cast<int>(ElementValue[0]) != 45) {
-				printf("Ошибка - введен неправильный символ....\n");
+				printf("ГЋГёГЁГЎГЄГ  - ГўГўГҐГ¤ГҐГ­ Г­ГҐГЇГ°Г ГўГЁГ«ГјГ­Г»Г© Г±ГЁГ¬ГўГ®Г«....\n");
 				system("pause");
 				return 0;
 			}else { a[i][j] = atoi(ElementValue);}
 		}
 			
 	}
-	printf("Указанная матрица:\n");
+	printf("Г“ГЄГ Г§Г Г­Г­Г Гї Г¬Г ГІГ°ГЁГ¶Г :\n");
 	printf("-------------------\n");
 	for (i = 0; i < n; i++)
 	{
@@ -36,7 +36,7 @@ int Matrix3x3()
 	}
 	printf("-------------------\n");
 	d = (a[0][0] * a[1][1] * a[2][2]) + (a[0][1] * a[1][2] * a[2][0]) + (a[1][0] * a[2][1] * a[0][2]) - ((a[0][2] * a[1][1] * a[2][0]) + (a[1][0] * a[2][2] * a[0][1]) + (a[1][2] * a[2][1] * a[0][0]));
-	printf("Определитель матрицы равен: %d\n", d);
+	printf("ГЋГЇГ°ГҐГ¤ГҐГ«ГЁГІГҐГ«Гј Г¬Г ГІГ°ГЁГ¶Г» Г°Г ГўГҐГ­: %d\n", d);
 	system("pause");
 	return 0;
 }
