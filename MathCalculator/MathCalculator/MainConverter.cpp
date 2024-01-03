@@ -99,6 +99,8 @@ void MainConverterModule()
 		amount = stof(control);
 		if (amount * coeficent == 0 and control[0] != '0') { cout << endl << "An error has occured"; break; }
 		cout << endl << "USD:" << amount * coeficent;
+		cout << endl;
+		system("pause");
 		break;
 	}
 	case 12:
@@ -117,6 +119,8 @@ void MainConverterModule()
 		amount = stof(control);
 		if (amount * coeficent == 0 and control[0] != '0') { cout << endl << "An error has occured"; break; }
 		cout << endl << "EUR:" << amount * coeficent;
+		cout << endl;
+		system("pause");
 		break;
 	}
 	case 13:
@@ -135,6 +139,8 @@ void MainConverterModule()
 		amount = stof(control);
 		if (amount * coeficent == 0 and control[0] != '0') { cout << endl << "An error has occured"; break; }
 		cout << endl << "RUB:" << amount * coeficent;
+		cout << endl;
+		system("pause");
 		break;
 	}
 	case 14:
@@ -153,6 +159,8 @@ void MainConverterModule()
 		amount = stof(control);
 		if (amount * coeficent == 0 and control[0] != '0') { cout << endl << "An error has occured"; break; }
 		cout << endl << "PLN:" << amount * coeficent;
+		cout << endl;
+		system("pause");
 		break;
 	}
 	case 15:
@@ -171,6 +179,8 @@ void MainConverterModule()
 		amount = stof(control);
 		if (amount * coeficent == 0 and control[0] != '0') { cout << endl << "An error has occured"; break; }
 		cout << endl << "UAH:" << amount * coeficent;
+		cout << endl;
+		system("pause");
 		break;
 	}
 
@@ -193,6 +203,8 @@ void MainConverterModule()
 		amount = stof(control);
 		if (amount * coeficent == 0 and control[0] != '0') { cout << endl << "An error has occured"; break; }
 		cout << endl << "BYN:" << amount * coeficent;
+		cout << endl;
+		system("pause");
 		break;
 	}
 	case 22:
@@ -211,6 +223,8 @@ void MainConverterModule()
 		amount = stof(control);
 		if (amount * coeficent == 0 and control[0] != '0') { cout << endl << "An error has occured"; break; }
 		cout << endl << "EUR:" << amount * coeficent;
+		cout << endl;
+		system("pause");
 		break;
 	}
 	case 23:
@@ -229,6 +243,8 @@ void MainConverterModule()
 		amount = stof(control);
 		if (amount * coeficent == 0 and control[0] != '0') { cout << endl << "An error has occured"; break; }
 		cout << endl << "RUB:" << amount * coeficent;
+		cout << endl;
+		system("pause");
 		break;
 	}
 	case 24:
@@ -247,6 +263,8 @@ void MainConverterModule()
 		amount = stof(control);
 		if (amount * coeficent == 0 and control[0] != '0') { cout << endl << "An error has occured"; break; }
 		cout << endl << "PLN:" << amount * coeficent;
+		cout << endl;
+		system("pause");
 		break;
 	}
 	case 25:
@@ -265,6 +283,8 @@ void MainConverterModule()
 		amount = stof(control);
 		if (amount * coeficent == 0 and control[0] != '0') { cout << endl << "An error has occured"; break; }
 		cout << endl << "UAH:" << amount * coeficent;
+		cout << endl;
+		system("pause");
 		break;
 	}
 
@@ -296,6 +316,8 @@ void MainConverterModule()
 		amount = stof(control);
 		if (amount * coeficent == 0 and control[0] != '0') { cout << endl << "An error has occured"; break; }
 		cout << endl << "BYN:" << amount * coeficent;
+		cout << endl;
+		system("pause");
 		break;
 	}
 	case 32:
@@ -314,6 +336,8 @@ void MainConverterModule()
 		amount = stof(control);
 		if (amount * coeficent == 0 and control[0] != '0') { cout << endl << "An error has occured"; break; }
 		cout << endl << "USD:" << amount * coeficent;
+		cout << endl;
+		system("pause");
 		break;
 	}
 	case 33:
@@ -332,6 +356,8 @@ void MainConverterModule()
 		amount = stof(control);
 		if (amount * coeficent == 0 and control[0] != '0') { cout << endl << "An error has occured"; break; }
 		cout << endl << "RUB:" << amount * coeficent;
+		cout << endl;
+		system("pause");
 		break;
 	}
 	case 34:
@@ -350,6 +376,8 @@ void MainConverterModule()
 		amount = stof(control);
 		if (amount * coeficent == 0 and control[0] != '0') { cout << endl << "An error has occured"; break; }
 		cout << endl << "PLN:" << amount * coeficent;
+		cout << endl;
+		system("pause");
 		break;
 	}
 	case 35:
@@ -368,6 +396,8 @@ void MainConverterModule()
 		amount = stof(control);
 		if (amount * coeficent == 0 and control[0] != '0') { cout << endl << "An error has occured"; break; }
 		cout << endl << "UAH:" << amount * coeficent;
+		cout << endl;
+		system("pause");
 		break;
 	}
 
@@ -401,6 +431,8 @@ void MainConverterModule()
 		amount = stof(control);
 		if (amount * coeficent == 0 and control[0] != '0') { cout << endl << "An error has occured"; break; }
 		cout << endl << "BYN:" << amount * coeficent;
+		cout << endl;
+		system("pause");
 		break;
 	}
 	case 42:
@@ -419,6 +451,8 @@ void MainConverterModule()
 		amount = stof(control);
 		if (amount * coeficent == 0 and control[0] != '0') { cout << endl << "An error has occured"; break; }
 		cout << endl << "USD:" << amount * coeficent;
+		cout << endl;
+		system("pause");
 		break;
 	}
 	case 43:
@@ -437,6 +471,8 @@ void MainConverterModule()
 		amount = stof(control);
 		if (amount * coeficent == 0 and control[0] != '0') { cout << endl << "An error has occured"; break; }
 		cout << endl << "EUR:" << amount * coeficent;
+		cout << endl;
+		system("pause");
 		break;
 	}
 	case 44:
@@ -455,6 +491,8 @@ void MainConverterModule()
 		amount = stof(control);
 		if (amount * coeficent == 0 and control[0] != '0') { cout << endl << "An error has occured"; break; }
 		cout << endl << "PLN:" << amount * coeficent;
+		cout << endl;
+		system("pause");
 		break;
 	}
 	case 45:
@@ -473,6 +511,8 @@ void MainConverterModule()
 		amount = stof(control);
 		if (amount * coeficent == 0 and control[0] != '0') { cout << endl << "An error has occured"; break; }
 		cout << endl << "UAH:" << amount * coeficent;
+		cout << endl;
+		system("pause");
 		break;
 	}
 
@@ -493,6 +533,8 @@ void MainConverterModule()
 		amount = stof(control);
 		if (amount * coeficent == 0 and control[0] != '0') { cout << endl << "An error has occured"; break; }
 		cout << endl << "BYN:" << amount * coeficent;
+		cout << endl;
+		system("pause");
 		break;
 	}
 	case 52:
@@ -511,6 +553,8 @@ void MainConverterModule()
 		amount = stof(control);
 		if (amount * coeficent == 0 and control[0] != '0') { cout << endl << "An error has occured"; break; }
 		cout << endl << "USD:" << amount * coeficent;
+		cout << endl;
+		system("pause");
 		break;
 	}
 	case 53:
@@ -529,6 +573,8 @@ void MainConverterModule()
 		amount = stof(control);
 		if (amount * coeficent == 0 and control[0] != '0') { cout << endl << "An error has occured"; break; }
 		cout << endl << "EUR:" << amount * coeficent;
+		cout << endl;
+		system("pause");
 		break;
 	}
 	case 54:
@@ -547,6 +593,8 @@ void MainConverterModule()
 		amount = stof(control);
 		if (amount * coeficent == 0 and control[0] != '0') { cout << endl << "An error has occured"; break; }
 		cout << endl << "RUB:" << amount * coeficent;
+		cout << endl;
+		system("pause");
 		break;
 	}
 	case 55:
@@ -565,6 +613,8 @@ void MainConverterModule()
 		amount = stof(control);
 		if (amount * coeficent == 0 and control[0] != '0') { cout << endl << "An error has occured"; break; }
 		cout << endl << "UAH:" << amount * coeficent;
+		cout << endl;
+		system("pause");
 		break;
 	}
 
@@ -590,6 +640,8 @@ void MainConverterModule()
 		amount = stof(control);
 		if (amount * coeficent == 0 and control[0] != '0') { cout << endl << "An error has occured"; break; }
 		cout << endl << "BYN:" << amount * coeficent;
+		cout << endl;
+		system("pause");
 		break;
 	}
 	case 62:
@@ -608,6 +660,8 @@ void MainConverterModule()
 		amount = stof(control);
 		if (amount * coeficent == 0 and control[0] != '0') { cout << endl << "An error has occured"; break; }
 		cout << endl << "USD:" << amount * coeficent;
+		cout << endl;
+		system("pause");
 		break;
 	}
 	case 63:
@@ -626,6 +680,8 @@ void MainConverterModule()
 		amount = stof(control);
 		if (amount * coeficent == 0 and control[0] != '0') { cout << endl << "An error has occured"; break; }
 		cout << endl << "EUR:" << amount * coeficent;
+		cout << endl;
+		system("pause");
 		break;
 	}
 	case 64:
@@ -644,6 +700,8 @@ void MainConverterModule()
 		amount = stof(control);
 		if (amount * coeficent == 0 and control[0] != '0') { cout << endl << "An error has occured"; break; }
 		cout << endl << "RUB:" << amount * coeficent;
+		cout << endl;
+		system("pause");
 		break;
 	}
 	case 65:
@@ -662,6 +720,8 @@ void MainConverterModule()
 		amount = stof(control);
 		if (amount * coeficent == 0 and control[0] != '0') { cout << endl << "An error has occured"; break; }
 		cout << endl << "PLN:" << amount * coeficent;
+		cout << endl;
+		system("pause");
 		break;
 	}
 

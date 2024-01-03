@@ -57,7 +57,9 @@ int main()
 			{
 			case 1:
 				MainConverterModule();
+				
 				break;
+				
 			case 2:
 				printf("Выход....");
 				exit(NotExit);
