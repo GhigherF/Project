@@ -145,6 +145,7 @@
     <ClCompile Include="Factorial.cpp" />
     <ClCompile Include="Index.cpp" />
     <ClCompile Include="MainAlgebraModule.cpp" />
+    <ClCompile Include="MainConverter.cpp" />
     <ClCompile Include="MainMathModule.cpp" />
     <ClCompile Include="Matrix3x3.cpp" />
     <ClCompile Include="MatrixSummation.cpp" />
@@ -155,6 +156,7 @@
     <ClCompile Include="VectorSubstraction.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ConverterModule.h" />
     <ClInclude Include="CurvedTrapezoidArea.h" />
     <ClInclude Include="Discriminant.h" />
     <ClInclude Include="exit.h" />
